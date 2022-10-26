@@ -1,0 +1,10 @@
+﻿  Laba1-Hammurabi.cpp
+D:\Магистратура - Алгоритмы и структуры данных\Laba1-Hammurabi\Laba1-Hammurabi\Laba1-Hammurabi.cpp(14,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Магистратура - Алгоритмы и структуры данных\Laba1-Hammurabi\Laba1-Hammurabi\Laba1-Hammurabi.cpp(94,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Магистратура - Алгоритмы и структуры данных\Laba1-Hammurabi\Laba1-Hammurabi\Laba1-Hammurabi.cpp(98,9): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+D:\Магистратура - Алгоритмы и структуры данных\Laba1-Hammurabi\Laba1-Hammurabi\Laba1-Hammurabi.cpp(248,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Магистратура - Алгоритмы и структуры данных\Laba1-Hammurabi\Laba1-Hammurabi\Laba1-Hammurabi.cpp(308,27): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\Магистратура - Алгоритмы и структуры данных\Laba1-Hammurabi\Laba1-Hammurabi\Laba1-Hammurabi.cpp(472,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Магистратура - Алгоритмы и структуры данных\Laba1-Hammurabi\Laba1-Hammurabi\Laba1-Hammurabi.cpp(473,37): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\Магистратура - Алгоритмы и структуры данных\Laba1-Hammurabi\Laba1-Hammurabi\Laba1-Hammurabi.cpp(219,64): warning C4101: setAcresForCultivation: неиспользованная локальная переменная
+  Laba1-Hammurabi.vcxproj -> D:\Магистратура - Алгоритмы и структуры данных\Laba1-Hammurabi\x64\Debug\Laba1-Hammurabi.exe
