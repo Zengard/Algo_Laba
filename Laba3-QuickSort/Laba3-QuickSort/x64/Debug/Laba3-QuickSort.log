@@ -1,0 +1,3 @@
+﻿  Laba3-QuickSort.cpp
+D:\Магистратура - Алгоритмы и структуры данных\Laba3-QuickSort\Laba3-QuickSort\Laba3-QuickSort.cpp(15,24): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Laba3-QuickSort.vcxproj -> D:\Магистратура - Алгоритмы и структуры данных\Laba3-QuickSort\x64\Debug\Laba3-QuickSort.exe
