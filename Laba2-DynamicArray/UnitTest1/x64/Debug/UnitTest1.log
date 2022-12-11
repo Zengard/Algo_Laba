@@ -1,0 +1,8 @@
+﻿  UnitTest1.cpp
+D:\Магистратура - Алгоритмы и структуры данных\Laba2-DynamicArray\UnitTest1\UnitTest1.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Магистратура - Алгоритмы и структуры данных\Laba2-DynamicArray\Laba2-DynamicArray\Array.h(46,1): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+D:\Магистратура - Алгоритмы и структуры данных\Laba2-DynamicArray\Laba2-DynamicArray\Array.h(83): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Array<T>::Iterator"
+D:\Магистратура - Алгоритмы и структуры данных\Laba2-DynamicArray\Laba2-DynamicArray\Array.h(150): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Array<T>"
+D:\Магистратура - Алгоритмы и структуры данных\Laba2-DynamicArray\Laba2-DynamicArray\Array.h(97,1): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+D:\Магистратура - Алгоритмы и структуры данных\Laba2-DynamicArray\Laba2-DynamicArray\Array.h(127): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Array<T>::ConstIterator"
+  UnitTest1.vcxproj -> D:\Магистратура - Алгоритмы и структуры данных\Laba2-DynamicArray\x64\Debug\UnitTest1.dll

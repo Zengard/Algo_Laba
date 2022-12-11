@@ -1,0 +1,7 @@
+﻿  Laba2-DynamicArray.cpp
+D:\Магистратура - Алгоритмы и структуры данных\Laba2-DynamicArray\Laba2-DynamicArray\Array.h(46,1): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+D:\Магистратура - Алгоритмы и структуры данных\Laba2-DynamicArray\Laba2-DynamicArray\Array.h(83): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Array<T>::Iterator"
+D:\Магистратура - Алгоритмы и структуры данных\Laba2-DynamicArray\Laba2-DynamicArray\Array.h(150): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Array<T>"
+D:\Магистратура - Алгоритмы и структуры данных\Laba2-DynamicArray\Laba2-DynamicArray\Array.h(97,1): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+D:\Магистратура - Алгоритмы и структуры данных\Laba2-DynamicArray\Laba2-DynamicArray\Array.h(127): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Array<T>::ConstIterator"
+  Laba2-DynamicArray.vcxproj -> D:\Магистратура - Алгоритмы и структуры данных\Laba2-DynamicArray\x64\Debug\Laba2-DynamicArray.exe
