@@ -294,17 +294,14 @@ Array<T>& Array<T>:: operator = (Array other)
 template<typename T>
 Array<T>& Array<T>:: operator = (const Array& other)
 {
-	if (this != other) {
-		Array<T> temp = other;///////////////
-
 		free(pitems);
-		capacity_m = temp.capacity_m;
-		size_m = temp.size_m;
+		capacity_m = other.capacity_m;
+		size_m = other.size_m;
 		pitems = (T*)malloc(sizeof(T) * capacity_m);
 			for (int i = 0; i < capacity; i++) {
 				new (pitems + i) T(other.pitems[i]);
 			}
-	}
+	
 	return *this;
 }
 
