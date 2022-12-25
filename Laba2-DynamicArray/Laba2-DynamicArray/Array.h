@@ -294,6 +294,11 @@ Array<T>& Array<T>:: operator = (Array other)
 template<typename T>
 Array<T>& Array<T>:: operator = (const Array& other)
 {
+	if (this != &other) {
+		for (int i = 0; i < size_m; i++) {
+			pitems[i].~Array();
+		}
+		
 		free(pitems);
 		capacity_m = other.capacity_m;
 		size_m = other.size_m;
